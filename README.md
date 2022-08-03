@@ -1,3 +1,4 @@
+#7DaysOfCode
 # Tarefa-alura
 let numeroUm = 1
 let stringUm = '1'
